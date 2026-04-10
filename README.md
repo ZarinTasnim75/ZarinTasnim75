@@ -20,3 +20,9 @@
 <hr>
 <b> Personal Description: </b>
 <p> Currently learning React, Node, Express, MongoDB</p>
+<b> My Favorites: </b>
+<p> I love to explore new technologies, tools and work in a team</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZarinTasnim75&show_icons=true&theme=radical" />
+</p>
