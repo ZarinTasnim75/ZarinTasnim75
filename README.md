@@ -1,28 +1,98 @@
 <p align="center">
-  <img width="700" height="300" src="https://github.com/user-attachments/assets/0d97276f-3241-46c6-a615-4ef9ce6b9bb9" />
+  <img src="https://github.com/user-attachments/assets/0d97276f-3241-46c6-a615-4ef9ce6b9bb9" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I am Zarin Tasnim</h1>
+<h1 align="center">Hi 👋, I'm Zarin Tasnim</h1>
 
-<p align="center"> Web Developer | Expert in Javascript, React.js, MySQL | Crafting User friendy and highly functional UI </p>
+<h3 align="center">💻 Full Stack Web Developer | React • Next.js • Node.js</h3>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+# 👩‍💻 About Me
+
+I am a student passionate about building modern and user-friendly web applications. I enjoy solving real-world problems through clean, efficient code and continuously learning new technologies. My goal is to become a skilled Full Stack Developer and contribute to impactful software projects.
+
+---
+
+# 🚀 Current Activities
+
+- 🌱 Exploring **Next.js**
+- 💻 Practicing **Data Structures & Algorithms**
+- 📚 Learning advanced backend development and authentication
+
+---
+
+# 🛠️ Skills
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/zarin-tasnim-tsm15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zarin-tasnim-tsm15" height="30" width="40" /></a>
-<a href="mailto:zarintsm15@gmail.com">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
+
+<a href="https://github.com/ZarinTasnim75">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
+<a href="https://linkedin.com/in/zarin-tasnim-tsm15">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:zarintsm15@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<hr>
-<b> Personal Description: </b>
-<p> Currently learning React, Node, Express, MongoDB</p>
-<b> My Favorites: </b>
-<p> I love to explore new technologies, tools and work in a team</p>
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZarinTasnim75&show_icons=true&theme=radical" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZarinTasnim75&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZarinTasnim75&layout=compact&theme=tokyonight"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ZarinTasnim75&theme=tokyonight"/>
+
+</p>
+
+
+## 💡 Favorite Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
