@@ -1,5 +1,6 @@
+
 <p align="center">
-<img width="1192" height="785" alt="Screenshot 2026-07-16 005803" src="https://github.com/user-attachments/assets/0f8afeeb-1b15-46b2-8308-42cef71f5af0" />
+<img width="1536" height="1024" alt="update" src="https://github.com/user-attachments/assets/5324cf8b-6c09-4533-b0b9-f0ca6f746530" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Zarin Tasnim</h1>
